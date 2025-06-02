@@ -12,7 +12,7 @@
 
 > **Principal Software Engineer - Compilers | Intel Canada **
 
-I'm a compiler developer working at at Intel, specializing on enableing and optimizing Triton for current and next generation Intel GPUs.
+I'm a compiler developer working at at Intel, specializing on enabling and optimizing Triton for current and next generation Intel GPUs.
 
 ## 🚀 Skills & Technologies
 
