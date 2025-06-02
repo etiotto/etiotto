@@ -1,6 +1,6 @@
 Hi there, I'm Ettore Tiotto. I am a Principal Software (Compiler) Engineer at Intel. 
 
-I am currently working on enableing support for Intel GPUs in Triton.
+I am currently working on enabling support for Intel GPUs in Triton.
 
 ![Ettore tiotto github stats](https://github-readme-stats.vercel.app/api?username=etiotto&show_icons=true&hide_border=true)
 
