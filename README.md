@@ -1,8 +1,38 @@
-Hi there, I'm Ettore Tiotto. I am a Principal Software (Compiler) Engineer at Intel. 
+# Ettore Tiotto
 
-I am currently working on enabling support for Intel GPUs in Triton.
+<div align="center">
 
-![Ettore tiotto github stats](https://github-readme-stats.vercel.app/api?username=etiotto&show_icons=true&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=etiotto&color=blueviolet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ettore-tiotto-60170b39/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:etiotto@gmail.com)
+
+</div>
+
+## 👋 About Me
+
+> **Principal Software Engineer - Compilers | Intel Canada **
+
+I'm a compiler developer working at at Intel, specializing on enableing and optimizing Triton for current and next generation Intel GPUs.
+
+## 🚀 Skills & Technologies
+
+<div>
+
+![C/C++](https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=C++&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MLIR](https://img.shields.io/badge/MLIR-CB8T20?style=for-the-badge&logo=MLIR&logoColor=white)
+![LLVM](https://img.shields.io/badge/LLVM-ED4B10?style=for-the-badge&logo=LLVM&logoColor=white)
+
+</div>
+
+## 🎨 Hobbies
+
+<div>
+
+For fun I like kayaking and camping solo in Canada's backcountry. 
+
+I enjoy cooking (especially Italian food), traveling, and I collect Japanese knives. 🌟
+
 
 <!--
 **etiotto/etiotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
